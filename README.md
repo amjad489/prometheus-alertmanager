@@ -1,4 +1,5 @@
-# prometheus-alertmanager
+# prometheus-alertmanager-rules
+Following are the alert manager rules for node exporter 0.16.0
 ## CPU Utilization alert
 ```yaml
 - alert: CriticalCPUUtilisation
